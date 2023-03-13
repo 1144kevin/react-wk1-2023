@@ -5,7 +5,7 @@ export default function Footer() {
                 <div className="container">
                     <div className="footercontainer">
                         <h5 className="footer__description">
-                            臺北市和平東路二段134號，國立臺北111111教育大學 數位科技設計學系
+                            臺北市和平東路二段134號，國立臺北教育大學 數位科技設計學系
                         </h5>
                         <ul className="footer__list">
                             <li className="footer__item"><a href="" className="footer__link"><i className="fab fa-facebook-f"></i></a></li>
