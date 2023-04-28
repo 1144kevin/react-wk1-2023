@@ -13,8 +13,8 @@ function Home() {
         <div className="container mainLayout">
             <Header
                 className="layoutHeader"
-                titie="Name"
-                slogan="Slogan"
+                titie="photoweb"
+                slogan="K's Web"
             />
             <Image
                 images={images}
